@@ -1,0 +1,7 @@
+print('tom work hard......')
+print('tom work hard......')
+print('tom work hard......')
+print('tom work hard......')
+print('tom work hard......')
+print('tom work hard......')
+print('tom work hard......')
